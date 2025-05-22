@@ -19,6 +19,9 @@ Copy
 Edit
 flask-jenkins-docker/
 ├── app.py              # Flask application
+|
 ├── requirements.txt    # Python dependencies
+|
 ├── Dockerfile          # Docker configuration
+|
 └── Jenkinsfile         # Jenkins pipeline declaration
